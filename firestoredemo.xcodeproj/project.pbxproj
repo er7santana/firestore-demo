@@ -3,7 +3,7 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 50;
+	objectVersion = 51;
 	objects = {
 
 /* Begin PBXBuildFile section */
@@ -63,13 +63,13 @@
 		149D3B0A22E91DCE0025E350 /* firestoredemo */ = {
 			isa = PBXGroup;
 			children = (
-				149D3B1F22E91EDB0025E350 /* GoogleService-Info.plist */,
 				149D3B0B22E91DCF0025E350 /* AppDelegate.swift */,
 				149D3B0D22E91DCF0025E350 /* ViewController.swift */,
 				149D3B0F22E91DCF0025E350 /* Main.storyboard */,
 				149D3B1222E91DD30025E350 /* Assets.xcassets */,
 				149D3B1422E91DD30025E350 /* LaunchScreen.storyboard */,
 				149D3B1722E91DD30025E350 /* Info.plist */,
+				149D3B1F22E91EDB0025E350 /* GoogleService-Info.plist */,
 			);
 			path = firestoredemo;
 			sourceTree = "<group>";
@@ -88,7 +88,6 @@
 				D8F8BD9F463E84FC95980AE9 /* Pods-firestoredemo.debug.xcconfig */,
 				4B5BE86C92F6BA0D6C8F6DCB /* Pods-firestoredemo.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
